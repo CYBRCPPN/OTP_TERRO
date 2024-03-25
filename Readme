@@ -1,0 +1,45 @@
+<h2 align="center">TEROR OTP</h2>
+<p menyelaraskan="tengah">
+  <img src="https://img.shields.io/static/v1?label=bahasa&message=Bourne+Again+Shell&color=green&logo=nano">
+  <img src="https://img.shields.io/static/v1?label=Framework&message=Bash+ID&color=green&logo=reddit"><br>
+  <img src="https://img.shields.io/github/forks/Bayu12345677/OTP_TERROR?logo=git&style=social">
+  <img src="https://img.shields.io/github/license/Bayu12345677/OTP_TERROR?color=green&logo=apache&style=flat-square">
+</p>
+
+<br>
+Otp Terror merupakan sebuah program yang di buat dengan bash berfungsi untuk melakukan aksi teror pada target
+dengan bermodalkan nomor telepon target
+<br>
+
+- Penafian: Hanya dukungan nomor +62
+- ## cara menginstall
+\- siapkan termux versi terbaru<br>
+\- setup termux anda<br>
+\- instal paket git<br>
+\- instal paket make<br>
+\- instal repositori ini<br>
+\- jalankan perintah setup dan jalankan pada make
+
+<details open><summary><code>Salinan Perintah</code></summary>
+
+``` pesta
+pembaruan pkg
+peningkatan pkg
+tepat instal curl git Ruby
+tepat instal buat dentang
+layar pemasangan yang tepat
+tepat instal python
+tepat instal python-pip mpv
+instalasi pip kaya
+pip instal rich-cli
+permata instal lolcat
+git klon https://github.com/Bayu12345677/OTP_TERROR.git
+cd OTP_TERROR
+membuat pengaturan
+membuat Lari
+```
+</detail>
+
+- Daftar otp
+> -sms<br>
+> - whatsapp<br>
