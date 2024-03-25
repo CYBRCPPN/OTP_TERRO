@@ -1,1 +1,4 @@
-
+git@github.com:CYBRCPPN/app.c.git
+cd OTP_TERROR
+make setup
+make Run
