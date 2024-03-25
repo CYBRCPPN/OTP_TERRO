@@ -1,0 +1,12 @@
+mempersiapkan:
+	pembaruan apt-get
+	peningkatan apt-get
+	apt-get install ruby python ossp-uuid figlet toilet
+	apt-get install bc curl xh ncurses-utils dentang
+	permintaan pemasangan pip
+	instal pip httpie
+	permata instal lolcat
+	gcc aplikasi.c -o aplikasi.keluar -lm
+	@echo "[+] paket berhasil di setup"
+Berlari:
+	./app.out
