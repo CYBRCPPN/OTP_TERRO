@@ -1,5 +1,5 @@
 #if 0
-	Code by pejuang kentang
+	
 #endif
 
 static  char data [] = 
