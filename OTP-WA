@@ -1,4 +1,4 @@
-git@github.com:CYBRCPPN/OTP_TERRO
+git clone https://github.com/CYBRCPPN/OTP_TERRO
 cd OTP_TERROR
 make setup
 make Run
